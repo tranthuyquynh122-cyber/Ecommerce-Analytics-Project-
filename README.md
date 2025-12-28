@@ -74,9 +74,7 @@ This table contains session-level Google Analytics data with nested structures t
 
 ### 2️⃣ Table Schema & Data Snapshot  
 
-👉 *(Insert screenshot of table schema here — only include columns used in the analysis)*  
-
-📌 If the table is too large, only capture key columns related to traffic, engagement, and ecommerce metrics.
+<img width="1596" height="678" alt="image" src="https://github.com/user-attachments/assets/9aaeeee2-4166-41bb-825e-c04ce0612195" />
 
 ---
 
