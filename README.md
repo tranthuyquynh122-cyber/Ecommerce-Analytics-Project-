@@ -108,8 +108,6 @@ This table contains session-level Google Analytics data with nested structures t
 
 - Revenue values are stored in **micro-units**, so they must be divided by `1,000,000` to convert to standard currency.
 
-- Time filtering is applied using `_TABLE_SUFFIX`.
-
 - Ecommerce actions are encoded as:
   - `2` → Product View  
   - `3` → Add to Cart  
